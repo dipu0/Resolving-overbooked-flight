@@ -31,7 +31,7 @@ In the project you have to do the following:
 
 1.  Builds a priority queue using the priority number 
 2.  Prints a list of waiting customers in priority sequence.
-3.  Print details of customer who took flight ticket later
+3.  Print details of customer who took flight ticket later.
 
 
 
